@@ -17,7 +17,7 @@ function Library:Setup()
 		Folder = "Xoxo Exczy",
 		Size = UDim2.fromOffset(580, 460),
 		Transparent = true,
-		Theme = "Light Blue",
+		Theme = "Dark",
 		Resizable = true,
 		SideBarWidth = 200,
 		Background = "",
